@@ -1,0 +1,13 @@
+.gradle/
+build/
+run/
+run-gametest/
+run-data/
+out/
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+.vscode/
+*.log

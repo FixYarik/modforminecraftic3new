@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "side": "industrialevolution:block/machine_casing_side",
+    "top": "industrialevolution:block/machine_casing_top",
+    "bottom": "industrialevolution:block/machine_casing_bottom"
+  }
+}
